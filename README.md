@@ -14,7 +14,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<a href="mailto:pedro.coppola0207+github@gmail.com"><img src=" /></a>
+ 
+ <a href="mailto:pedro.coppola0207+github@gmail.com"><img src= "./assets/281769.png" width=24px
+  height=24px></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/> </a> </p>
