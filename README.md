@@ -27,17 +27,14 @@
 <<<<<<< HEAD
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHenriqueCoppola&repo=nlw-esports-explorer&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="nlw-esports-explorer" />
 =======
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHenriqueCoppola&repo=starbucks01&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="StarBucks01" />
->>>>>>> eebe5aec2f6e59ea2d783979e9d534e112a7b17f
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHenriqueCoppola&repo=nlw-esports-explorer&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="nlw-esports-explorer" />
+
 </a>
 
 ## 
 📊 This Week I Spent My Time On
 
-<<<<<<< HEAD
 ``` text
-=======
->>>>>>> eebe5aec2f6e59ea2d783979e9d534e112a7b17f
 ⌚︎ Time Zone: America/Brazil
 
 💬 Programming Languages: 
@@ -45,12 +42,6 @@ No Activity Tracked This Week
 
 🐱‍💻 Projects: 
 No Activity Tracked This Week
-<<<<<<< HEAD
-``` 
-=======
-
-
->>>>>>> eebe5aec2f6e59ea2d783979e9d534e112a7b17f
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer%22/%3E
