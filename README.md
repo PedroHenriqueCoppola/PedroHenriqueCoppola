@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy%22%3E<img src="https://github-profile-trophy.vercel.app/?username=pedrohenriquecoppola" alt="pedrohenriquecoppola" /></a> </p>
 
-- I'm working in some projects to improve my skills: [NLW eSports](https://pedrohenriquecoppola.github.io/nlw-esports-explorer/)
+- I'm working in some projects to improve my skills: [NLW eSports](https://pedrohenriquecoppola.github.io/nlw-esports-explorer/), [NLW Copa](https://pedrohenriquecoppola.github.io/nlw-10-copa/)
 
 - 🌱 I’m currently learning about HTML and CSS
 
@@ -25,7 +25,7 @@
 
 ## 🗂️ Highlight Projects
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHenriqueCoppola&repo=nlw-esports-explorer&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="nlw-esports-explorer" />
+  [<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHenriqueCoppola&repo=nlw-esports-explorer&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="nlw-esports-explorer"/>](https://pedrohenriquecoppola.github.io/nlw-esports-explorer/)
 
 ## 
 📊 This Week I Spent My Time On
