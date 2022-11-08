@@ -23,19 +23,37 @@
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=PedroHenriqueCoppola&custom_title=Coppola%20activity%20graph&theme=dracula&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+
 ## 🗂️ Highlight Projects
 
-  [<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHenriqueCoppola&repo=nlw-esports-explorer&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="nlw-esports-explorer"/>](https://pedrohenriquecoppola.github.io/nlw-esports-explorer/)
+<section display="block">
 
-## 
-📊 This Week I Spent My Time On
+  [<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHenriqueCoppola&repo=nlw-esports-explorer&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="nlw-esports-explorer"/>](https://pedrohenriquecoppola.github.io/nlw-esports-explorer/)
 
-``` text
-⌚︎ Time Zone: America/Brazil
+   [<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHenriqueCoppola&repo=nlw-10-copa&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="nlw-esports-explorer"/>](https://pedrohenriquecoppola.github.io/nlw-10-copa/)
+   </br>
+</section>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
-💬 Programming Languages: 
-No Activity Tracked This Week
 
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
+
+
+
+
+
+
+## 🏆 Languages and Trophy
+
+<section display="flex-inline">
+ <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueCoppola&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&icon_color=f9826c&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueCoppola&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&show_icons=true&hide_border=true&layout=compact" />
+  </br>
+  </section>
+ 
