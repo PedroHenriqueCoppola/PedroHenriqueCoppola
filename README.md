@@ -53,7 +53,7 @@
 <section display="flex-inline">
  <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueCoppola&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&icon_color=f9826c&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueCoppola&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&show_icons=true&hide_border=true&layout=compact" />
+  <img aling="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueCoppola&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&show_icons=true&hide_border=true&layout=compact" />
   </br>
   </section>
  
