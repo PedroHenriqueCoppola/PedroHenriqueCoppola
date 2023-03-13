@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy%22%3E<img src="https://github-profile-trophy.vercel.app/?username=pedrohenriquecoppola" alt="pedrohenriquecoppola" /></a> </p>
 
-- I'm working in some projects to improve my skills: [NLW eSports](https://pedrohenriquecoppola.github.io/nlw-esports-explorer/), [NLW Copa](https://pedrohenriquecoppola.github.io/nlw-10-copa/)
+- I'm working in some projects to improve my skills: [NLW eSports](https://pedrohenriquecoppola.github.io/nlw-esports-explorer/), [Projeto - Desafio 02](/github.com/PedroHenriqueCoppola/projeto-desafio02)
 
 - 🌱 I’m currently learning about HTML and CSS
 
