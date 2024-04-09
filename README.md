@@ -1,4 +1,6 @@
-<img alt="Pixel Art" src="./assets/city.gif" />
+<p align="center">
+ <img alt="Pixel Art" src="./assets/city.gif" />
+</p>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm Pedro Coppola</h1>
 <h3 align="center">Just a passionate front end student, from Brazil 🇧🇷</h3>
